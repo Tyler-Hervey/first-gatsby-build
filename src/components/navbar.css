@@ -1,0 +1,15 @@
+.nav-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  box-shadow: 0 1px 5px 2px rgba(0, 0, 0, 0.2);
+}
+
+#site-links {
+  list-style: none;
+  display: flex;
+}
+
+#site-links li {
+  padding: 0.5rem 1rem;
+}

@@ -1,0 +1,12 @@
+.single-product {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 90vw;
+  max-width: 1170px;
+  margin: 3rem auto;
+}
+
+p {
+  max-width: 30rem;
+}
